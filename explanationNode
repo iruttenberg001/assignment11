@@ -1,0 +1,5 @@
+Features of node js
+As a as a javascript runtime environment, node.js offers scalable non-buffering asynchronous single threaded events developed and licensed at MIT.
+It is built on google chrome's javascript v8 engine. A node.js server can handle multiple API requests at a time and responds using an event raising
+alert system allowing it to execute multiple loops in a single thread as opposed to traditional mechanisms such as apache which create limited threads
+for handling requests.
